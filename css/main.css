@@ -68,3 +68,8 @@ img {
 main {
   padding: 10px;
 }
+
+footer {
+  background-color: #ffe500;
+  text-align: center;
+}
